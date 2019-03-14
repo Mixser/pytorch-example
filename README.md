@@ -3,7 +3,7 @@
 1) Create a new virtual env (or use already existing)
 2) Install dependencies 
 ```bash
-pip install -r requiremnts.txt
+pip install -r requirements.txt
 ```
 3) Run it
 ```
